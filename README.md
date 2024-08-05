@@ -1,0 +1,1 @@
+This is a practice page to create my future website/newsletter. This follows the template given on one of the projects assigned in the Odin Project.
